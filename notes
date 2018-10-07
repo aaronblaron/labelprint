@@ -1,0 +1,3 @@
+add widgets to .pro: qt += WIDGETS
+set xserver: export DISPLAY=:0
+
